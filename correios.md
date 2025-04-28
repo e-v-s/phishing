@@ -2,7 +2,7 @@ Recebi esse email e foi direto pro spam, como **amo** saber o que acontece *no m
 
 O email em si:
 
-<table border="0">
+<table border="0" color="#ffffff">
  <tr>
     <td><img width="373" alt="Screenshot 2025-04-28 at 17 49 54" src="https://github.com/user-attachments/assets/6f954cc9-8bb9-430c-a566-9dacff5a7eee" /></td>
     <td>Pra não falar TÃO mal do design (sou entusiasta de coisa bonita), o botão tinha uma pseudo classe `:hover` e mudava de cor e tudo, *imagínate*!</td>
