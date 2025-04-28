@@ -5,12 +5,12 @@ O email em si:
 <img width="373" alt="Screenshot 2025-04-28 at 17 49 54" src="https://github.com/user-attachments/assets/6f954cc9-8bb9-430c-a566-9dacff5a7eee" />
 <br><br>
 <h3>Pontos de design a considerar</h3>
-
 <li>Pra não falar TÃO mal do design (sou entusiasta de coisa bonita), o botão tinha uma pseudo classe :hover e mudava de cor rs</li>
-
 <li>A fonte não é a dos correios e também não usaram a marquinha:</li>
-
+<br><br>
 <img width="312" alt="Screenshot 2025-04-28 at 18 11 44" src="https://github.com/user-attachments/assets/491ec541-d784-4417-8288-4f631f4fd8f6" />
+<br><br>
+
 
 
 
