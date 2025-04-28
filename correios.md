@@ -12,8 +12,9 @@ O email em si:
 <br><br>
 <li>Pra não falar TÃO mal do design (sou entusiasta de coisa bonita), o botão tinha uma pseudo classe :hover e mudava de cor rs;</li>
 <li>A fonte não é a dos correios e também não usaram a marquinha:</li>
-<br><br>
+<br>
 <img width="312" alt="Screenshot 2025-04-28 at 18 11 44" src="https://github.com/user-attachments/assets/491ec541-d784-4417-8288-4f631f4fd8f6" />
+
 A imagem de cima é do spam, a de baixo a marca original.
 <br><br>
 
